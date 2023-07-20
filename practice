@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Website Layout | Rishabh practice</title> 
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://www.peakpx.com/en/hd-wallpaper-desktop-vniux"/>
+   <style>
+    body{background-image:url('http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/nebula_blue.s2014.png');}
+   </style>
+
+   
+</head>
+<body>
+  <nav>
+    <div class="menu">
+      <div class="logo">
+        <a href="#">Rishabh Practice</a>
+      </div>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+        <li><a href="#">Feedback</a></li>
+      </ul>
+    </div>
+  </nav>
+  <div class="img"></div>
+  <div class="center">
+    <div class="title">Create Sample For Practice</div>
+    <div class="sub_title">With HTML & CSS Only</div>
+    <div class="btns">
+      <button>Learn More</button>
+      <button>Subscribe</button>
+    </div>
+  </div>
+  <div class="main-block">
+    <div class="left-part">
+      <i class="fas fa-envelope"></i>
+      <i class="fas fa-at"></i>
+      <i class="fas fa-mail-bulk"></i>
+    </div>
+    <form action="/">
+      <h1 style="color: red;">Contact Us</h1>
+      <div class="info">
+        <input class="fname" type="text" name="name" placeholder="Full name">
+        <input type="text" name="name" placeholder="Email">
+        <input type="text" name="name" placeholder="Phone number">
+        <input type="text" name="name" placeholder="Website">
+      </div>
+      <p style="color:red">Message</p>
+      <div>
+        <textarea  rows="4"></textarea>
+      </div>
+      <button style="color:red" type="submit" href="/">Submit</button>
+    </form>
+<body>
+    
+</body>
+</html>
